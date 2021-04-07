@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e379b11f-4224-4556-841d-66eaec03a174" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/FakeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/FakeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/GameOver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/GameOver$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/GameOver.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/GameOver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Instructions$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Instructions$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Instructions$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Instructions$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Instructions.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Instructions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/MenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/RoundResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/RoundResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/TCPClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/TCPClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/TCPClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/WaitToPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/WaitToPlay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/WaitingOpponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/Game/WaitingOpponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/out/production/TcpClient/META-INF/TcpClient.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/GameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/GameOver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Instructions.java" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Instructions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/RoundResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/RoundResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitToPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitToPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitingOpponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitingOpponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/Kashima Demo.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/angryCat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/arrowF.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/arrowF.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/circle.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/circle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/deadlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/deadlockMessage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/forrestTransparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/gatoDaFortuna.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/instrucoes.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/instrucoes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/jogar.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/jogar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/jokenpoTitle.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/jokenpoTitle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/loadingTransparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/opponentPoints.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/opponentPoints.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/pergFinal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/pergaminhoInstrucoes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/pergaminhoInstrucoesTeste.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/pergaminhoInstrucoesTeste.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/play.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/rays.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/rays.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/raysInstruction.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/raysInstruction.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/reminder.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/reminder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/rock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/sair.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/sair.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/scissor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/searchingPlayer.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/searchingPlayer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/waitingOpponent.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/waitingOpponent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/winnerLeftArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/winnerRightArrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/youLose.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/youLose.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/youWin.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/youWin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/yourPoints.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/yourPoints.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/yourTurnImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/JokenpoTCPClient/src/Resources/yourTurnImg.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/GameOver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/imparParTCPClient.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/TCPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="54" column="60" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/RoundResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="87" column="56" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/MenuItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitToPlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/Instructions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitingOpponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;/Resources/paper.png&quot;</find>
+      <find>scissorImg</find>
+      <find>yourt</find>
+      <find>1dedo</find>
+      <find>gatoSorte</find>
+      <find>gato</find>
+      <find>prox</find>
+      <find>round</find>
+      <find>angryCat</find>
+      <find>.gif</find>
+      <find>youwin</find>
+      <find>arrow</find>
+      <find>yourp</find>
+      <find>waitingop</find>
+      <find>youl</find>
+      <find>git</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\marcu\OneDrive\Área de Trabalho\REDES2 HILDS PT2\JokenpoTCPClient</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JokenpoTCPClient" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Instructions.java" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitToPlay.java" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Menu.java" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/src/Game/Game.java" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/src/Game/RoundResult.java" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitingOpponent.java" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/src/Game/GameOver.java" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/README.md" />
+        <option value="$PROJECT_DIR$/JokenpoTCPClient/imparParTCPClient.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="clientJogo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JokenpoTCPClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientJogo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JokenpoTCPClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="clientJogo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JokenpoTCPClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606867071769" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
+      <module name="imparParTCPClient" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\moaci\Documents\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
+      <module name="imparParTCPClient" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\marcu\OneDrive\Documentos\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e379b11f-4224-4556-841d-66eaec03a174" name="Default" comment="" />
+      <created>1606071503287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606071503287</updated>
+      <workItem from="1606071506292" duration="5400000" />
+      <workItem from="1606652522317" duration="13863000" />
+      <workItem from="1606685093090" duration="654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19917000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3114525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32960895" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/RoundResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="87" column="56" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitToPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/Instructions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/WaitingOpponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/imparParTCPClient.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokenpoTCPClient/src/Game/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="54" column="60" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JokenpoTCPClient</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx-swt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

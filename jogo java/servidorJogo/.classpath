@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JokenpoTCPServer/src"/>
+	<classpathentry kind="lib" path="JokenpoTCPServer/out/artifacts/Jokenpo_Server_jar/Jokenpo_Server.jar"/>
+	<classpathentry kind="output" path="JokenpoTCPServer/out/production/TcpServer"/>
+</classpath>

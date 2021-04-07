@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Jokenpo_Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JokenpoTCPServer/out/artifacts/Jokenpo_Server_jar/Jokenpo_Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
